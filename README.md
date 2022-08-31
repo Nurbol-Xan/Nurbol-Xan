@@ -1,8 +1,8 @@
 ![UserName](./githubname.gif)
 
 
-
 <h1 align="center"> Hi 👋</h1>
+
 > My name's Nurbol. I'm a Full-Stack developer.
 
 > 🔬 I am currently studying at Astrum IT Academy and Tashkent University of Information Technology.
@@ -13,9 +13,13 @@
 
 > 📚 I am currently learning the syntax of each language.
 
-[Nurbol's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nurbol-Xan&show_icons=true&theme=radical&title_color=7FFFD4&border_color=7FFFD4)
-# 
+<br />
+
+![Nurbol's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nurbol-Xan&show_icons=true&theme=radical&title_color=7FFFD4&border_color=7FFFD4)
+
+
 <h2 align="center"> To contact me: </h2>
+
 > [Telegram](https://t.me/nurbol_xan)<br />
 
 > [LinkedIn](https://www.linkedin.com/in/nurbol-xaydaraliyev-39b199242/)
@@ -42,15 +46,15 @@
 <div width="100%" align="center">
     <a align="left" href="https://github.com/Nurbol-Xan/My-Basecamp" title="Basecamp"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Nurbol-Xan&repo=My-Basecamp&theme=react&border_color=7FFFD4&border_radius=10"></a>
     <a align="right" href="https://github.com/Nurbol-Xan/My_Tetris" title="My Tetris"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Nurbol-Xan&repo=My_Tetris&theme=react&border_color=7FFFD4&border_radius=10"></a>
-</div><br /><br /><br /><br /><br /><br /><br />
+</div><br /><br /><br /><br /><br />
     <div width="100%" align="center">
     <a align="left" href="https://github.com/Nurbol-Xan/My_Calculator" title="My React Calculator"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Nurbol-Xan&repo=My_Calculator&theme=react&border_color=7FFFD4&border_radius=10"></a>
     <a align="right" href="https://github.com/Nurbol-Xan/Pokemon" title="My Pokemon App"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Nurbol-Xan&repo=Pokemon&theme=react&border_color=7FFFD4&border_radius=10"></a>
-       </div><br /><br /><br /><br /><br /><br /><br />
+       </div><br /><br /><br /><br /><br />
     <div width="100%" align="center">
     <a align="left" href="https://github.com/Nurbol-Xan/My_yelp" title="My Yelp"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Nurbol-Xan&repo=My_yelp&theme=react&border_color=7FFFD4&border_radius=10"></a>
     <a align="right" href="https://github.com/Nurbol-Xan/my_api" title="My Backend API"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Nurbol-Xan&repo=my_api&theme=react&border_color=7FFFD4&border_radius=10"></a>
 </div><br /><br /><br /><br /><br />
 <div width="100%" align="center">
-    <h4a href="https://github.com/Nurbol-Xan?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4
+    <h4><a href="https://github.com/Nurbol-Xan?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4
 </div>
