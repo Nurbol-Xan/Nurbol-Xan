@@ -17,7 +17,7 @@
 <h2 align="center"> Github stats </h2> 
 <br />
 
-![Nurbol's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nurbol-Xan&show_icons=true&theme=radical&title_color=7FFFD4&border_color=7FFFD4)
+![Nurbol's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nurbol-Xan&show_icons=true&theme=radical&title_color=7FFFD4&border_color=7FFFD4&width=50%)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nurbol-Xan&theme=vue-dark&hide_border=rost&border=24DD9D)](https://git.io/streak-stats)
 
 <h2 align="center"> To contact me: </h2>
